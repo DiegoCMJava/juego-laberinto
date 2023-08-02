@@ -1,6 +1,6 @@
 @font-face {
   font-family: "fontgotic";
-  src: url(/assets/font/SketchGothicSchool.ttf);
+  src: url(../assets/font/SketchGothicSchool.ttf);
 }
 * {
   margin: 0;
@@ -13,7 +13,7 @@ html {
 }
 body { 
   background-color: #aaa89c;
-  background-image: url(/assets/img/fondo.jpg);
+  background-image: url(../assets/img/fondo.jpg);
   background-position: center;
   display: flex;
   justify-content: center;
