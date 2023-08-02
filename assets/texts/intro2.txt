@@ -1,0 +1,1 @@
+Tecla ESPACIO para iniciar; teclas de DIRECCIÓN para mover al personaje.

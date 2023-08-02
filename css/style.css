@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "fontgotic";
+  src: url(/assets/font/SketchGothicSchool.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "fontgotic";
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+}
+body { 
+  background-color: #aaa89c;
+  background-image: url(/assets/img/fondo.jpg);
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+footer {
+ position: fixed;
+  bottom: 20px;
+  font-size: 2em;
+  color: rgb(238, 238, 228);
+  height: 10%;
+}
+footer a {
+  color: red;
+}
+.title {
+  position: absolute;
+  font-size: 2.5em;
+  color: black;
+  text-align: center;
+}
+.container {
+  margin: 0;
+   padding: 0;
+   width: 1010px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+

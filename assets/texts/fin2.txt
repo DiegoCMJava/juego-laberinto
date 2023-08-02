@@ -1,0 +1,1 @@
+Tecla ESPACIO para volver al inicio del juego.
